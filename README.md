@@ -56,7 +56,12 @@ An **Infotainment Dashboard** built using **Qt 6**, tailored for automotive envi
 
 ## 📸 Screenshots
 
-*Include screenshots here if available.*
+![image](https://github.com/user-attachments/assets/71e86688-725c-4491-9b5b-5bb26a6f64a7)
+
+![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/1fe465dd-1c9d-47bb-949c-2f04a13e36ba)
+
 
 ---
 
