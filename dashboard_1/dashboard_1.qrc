@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/Assets/images/background.png</file>
+        <file>UI/Assets/images/dance.jpeg</file>
+        <file>UI/Assets/images/fly.jpg</file>
+        <file>UI/Assets/images/vampire.jpeg</file>
+        <file>UI/Assets/icons/apps.png</file>
+        <file>UI/Assets/icons/high_volume.png</file>
+        <file>UI/Assets/icons/home.png</file>
+        <file>UI/Assets/icons/lock.png</file>
+        <file>UI/Assets/icons/low_volume.png</file>
+        <file>UI/Assets/icons/map.png</file>
+        <file>UI/Assets/icons/music.png</file>
+        <file>UI/Assets/icons/mute.png</file>
+        <file>UI/Assets/icons/next.png</file>
+        <file>UI/Assets/icons/OBD.png</file>
+        <file>UI/Assets/icons/pause.png</file>
+        <file>UI/Assets/icons/Phone.png</file>
+        <file>UI/Assets/icons/play.png</file>
+        <file>UI/Assets/icons/previous.png</file>
+        <file>UI/Assets/icons/settings.png</file>
+        <file>UI/Assets/icons/unlock.png</file>
+        <file>UI/Assets/icons/user.png</file>
+        <file>UI/Assets/icons/youtube.png</file>
+        <file>Main.qml</file>
+        <file>UI/AppScreen/AppScreen.qml</file>
+        <file>Controllers/system.cpp</file>
+        <file>UI/LeftBar/LeftBar.qml</file>
+    </qresource>
+</RCC>
