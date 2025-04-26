@@ -1,63 +1,70 @@
-# Infotainment-Dashboard
-An Infotainment Dashboard built using Qt 6, designed for automotive environments.
-It integrates navigation, multimedia control, a virtual keyboard, and a real-time status bar, providing a smooth and responsive user experience.
+# Infotainment Dashboard 🚘
 
-Features 🚗✨
-Google Maps Integration
+An **Infotainment Dashboard** built using **Qt 6**, tailored for automotive environments. It features smooth navigation, multimedia control, a virtual keyboard, and a real-time status bar—optimized for a responsive user experience.
 
-Embedded using Qt WebEngine module.
+---
 
-Supports location display and light traffic updates.
+## ✨ Features
 
-YouTube Access
+### 🚗 Google Maps Integration
+- Embedded using the **Qt WebEngine** module.
+- Supports **location display** and **light traffic updates**.
 
-Open and play YouTube videos inside the dashboard via WebEngine.
+### 📺 YouTube Access
+- Open and play **YouTube videos** inside the dashboard using **Qt WebEngine**.
 
-Virtual Keyboard
+### ⌨ Virtual Keyboard
+- Custom-built **virtual keyboard module** for text input.
+- Fully **touchscreen-compatible**.
 
-Custom virtual keyboard module for text input, compatible with touchscreens.
+### 🕒 Status Bar
+- Displays a **real-time clock** at the top.
+- Includes **user icon** and **system information** area.
 
-Status Bar
+### ⭐ Favorites App Bar
+- Quick-access icons for essential apps:
+  - **Navigation**
+  - **Music**
+  - **Phone**
+  - **App Drawer**
+- Positioned vertically on the **left side** of the interface.
 
-Displays real-time clock at the top of the dashboard.
+### 🎵 Multimedia Player
+- Built using the **Qt Multimedia** module.
+- Supports:
+  - **Play**, **Pause**, **Next**, **Previous** track controls
+  - Display of **track information** and **cover art**
 
-User icon and system information area.
+> **Note:** Audio output is currently **non-functional**. Media controls are operational.
 
-Favorites App Bar
+---
 
-Quick access icons for essential apps like Navigation, Music, Phone, and App Drawer.
+## 🛠 Requirements
 
-Located vertically on the left side.
+- **Qt 6.7+**
+- **Qt WebEngine Module**
+- **Qt Multimedia Module**
+- **CMake** (for building the project)
 
-Multimedia Player
+---
 
-Built with the Qt Multimedia module.
+## ⚠ Known Issues
 
-Supports:
+- **Audio playback** is currently **not working** (media control features work fine).
 
-Play, Pause, Next, Previous track controls.
+---
 
-Track info and cover art display.
+## 📸 Screenshots
 
-Note: Audio output is currently not working, but media control features are functional.
+*Include screenshots here if available.*
 
-Requirements 🛠
-Qt 6.7+
+---
 
-Qt WebEngine Module
+## 🌟 Future Improvements
 
-Qt Multimedia Module
+- Fix **audio playback** functionality.
+- Add **Bluetooth** and **WiFi** connectivity settings.
 
-CMake (for building the project)
+---
 
-
-Known Issues ⚠
-Audio playback is not functioning yet (only media control works).
-
-
-Screenshots 📸
-
-Future Improvements 🌟
-Fix audio playback.
-
-Add Bluetooth and WiFi connectivity settings.
+Feel free to contribute or suggest improvements! 🚀
